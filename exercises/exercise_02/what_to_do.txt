@@ -1,9 +1,0 @@
-Exercício 2 - Escrevendo scripts mais elaborados
-A função do script é informar a classe do carro conforme pedido pelo usuário
-Ferrari e Lamborghini  Celta      Palio e uno
-  Classe A             Classe B   Classe C
-
-Etapas do script:
-- Informar os carros disponíveis ao usuário
-- Pede ao usuário que digite qual carro deseja ver a classe
-- Mostra a classe do carro e sai
